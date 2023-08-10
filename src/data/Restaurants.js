@@ -25,13 +25,13 @@ export const restaurantData = [
         open: true,
     },
     {
-        name: "Pheobe's Dineout",
-        addr: "8/16 - Boulevard Avenue",
+        name: "Cafe Durga",
+        addr: "MIT-WPU Road",
         open: true,
     },
     {
-        name: "Pheobe's Dineout",
-        addr: "8/16 - Boulevard Avenue",
-        open: true,
+        name: "Katakir Misal",
+        addr: "Satara Road",
+        open: false,
     },
 ]
