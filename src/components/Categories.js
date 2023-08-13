@@ -3,7 +3,7 @@ import { categories } from '../data/FoodData'
 
 export const Categories = () => {
   return (
-    <div>
+    <div className='max-w-[1640px] m-auto'>
         <p className='text-orange-600 font-bold text-4xl pb-4'>Categories</p>
 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 px-5'>
