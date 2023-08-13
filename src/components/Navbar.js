@@ -20,14 +20,14 @@ export const Navbar = () => {
             <AiOutlineMenu size={30}/>
         </div>
 
-        <h1 className='text-2xl px-4 sm:text-3-xl lg:text-4xl'>
-          Uber <span>Eats</span>
+        <h1 className='text-2xl px-4 sm:text-2xl lg:text-4xl'>
+          Uber <span className='font-semibold'>Eats</span> | <span className='font-semibold text-orange-600'>Swiggy</span>
         </h1>
 
         <div className='hidden lg:flex items-center bg-gray-200
           rounded-full p-1 text-[14px]'>
           <p className='bg-black text-white rounded-full p-2'>Delivery</p>
-          <p>Pickup</p>
+          <p className='px-1'>Pickup</p>
         </div>
 
       </div>
