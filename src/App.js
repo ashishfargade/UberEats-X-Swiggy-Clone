@@ -6,6 +6,7 @@ import { Navbar } from './components/Navbar';
 import { RestaurantCards } from './components/RestaurantCards';
 import {NewButton} from './components/NewButton'
 import { FoodCards } from './components/FoodCards';
+import { Categories } from './components/Categories';
 
 function App() {
 
@@ -16,8 +17,12 @@ function App() {
       <Navbar/>
       <Hero />
       <HeadlineCards />
+
+      <Categories />
       
-      <FoodCards/>
+      <FoodCards />
+
+      <RestaurantCards />
       
     </div>
   );

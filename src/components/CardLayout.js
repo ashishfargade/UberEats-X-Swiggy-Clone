@@ -18,16 +18,15 @@ export const CardLayout = (item) => {
     
 
   return (
-    <div className="rounded-xl relative">
+    <div className="rounded-xl relative shadow-lg">
       {/* Overlay */}
       <div className="absolute w-full h-full rounded-xl text-white bg-black/60 flex flex-col justify-between">
         <div className="mt-2">
           <p className=" font-bold text-2xl px-2 pt-4">{item.name}</p>
           <p>{item.addr}</p>
         </div>
-        <button className="max-w-[160px] self-center m-2 bg-white border-white text-orange-600 font-bold mb-7">
-          {" "}
-          Order Now{" "}
+        <button className=" max-w-[160px] self-center m-2 bg-white border-white text-orange-600 font-bold mb-7">
+          Order Now
         </button>
       </div>
 
