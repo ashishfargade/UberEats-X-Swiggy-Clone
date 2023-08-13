@@ -26,4 +26,7 @@ It aims to replicate the functionality and user experience of these platforms.
 <br>
 
 ![mb1](https://github.com/ashishfargade/UberEats-X-Swiggy-Clone/assets/97624840/42ff37dd-fb1f-4723-bd25-4da3568e59ef)
+
+<br>
+
 ![mb2](https://github.com/ashishfargade/UberEats-X-Swiggy-Clone/assets/97624840/df7ef4a2-55a6-48ae-afb0-7a5d00331875)
